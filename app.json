@@ -14,33 +14,33 @@
     },  
     
     "STICKER_NAME": {
-      "description": "type your sticker pack name.",
+      "description": "🔥😊🤔😌🥰🤭🥳🙄😤🫡.",
       "required": false,
       "value": "𝖒𝖆𝖗𝖎𝖘𝖊𝖑"
     }, 
       
     "PREFIX": {
-      "description": "paste your bot prefix note! Don't apply null prefix.",
-      "required": false,
+      "description": ".",
+      "required": true,
       "value": "."
     },
     
     "MODE": {
-      "description": "select your bot work type public-private-inbox-group.",
-      "required": false,
+      "description": "private.",
+      "required": true,
       "value": "private"
       
     },
 
      "ANTI_DELETE": {
       "description": "set true for show deleted messages.",
-      "required": false,
+      "required": true,
       "value": "true"  
     },
     
     "ALWAYS_ONLINE": {
       "description": "Make it true if want always online.",
-      "required": false,
+      "required": true,
       "value": "true"  
     },    
    
@@ -58,20 +58,20 @@
     }, 
     
     "OWNER_NAME": {
-      "description": "Type Bot Owner Name.",
-      "required": false,
+      "description": "Roy4.",
+      "required": true,
       "value": "Marisel"
 }, 
 
     "OWNER_NUMBER": {
-      "description": "put the owner number for bot.",
-      "required": false,
-      "value": "254740007567"
+      "description": "254755660053.",
+      "required": true,
+      "value": "254755660053"
 
     }, 
 
     "BOT_NAME": {
-      "description": "Type here the bot name.",
+      "description": Roy4 MD.",
       "required": false,
       "value": "Mercedes"
 
@@ -99,14 +99,14 @@
     
     "MENU_IMAGE_URL": {
       "description": "add url for mention reply and menu if want.",
-      "required": false,
+      "required": true,
       "value": "https://files.catbox.moe/7zfdcq.jpg"
     },
     
      "DESCRIPTION": {
-      "description": "add caption for menu and other",
+      "description": "Welcome to Roy4 MD",
       "required": false,
-      "value": "*Made By Marisel*"
+      "value": "*Made By Rodgers*"
     },
 
       "DELETE_LINKS": {
