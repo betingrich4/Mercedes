@@ -71,7 +71,7 @@
     }, 
 
     "BOT_NAME": {
-      "description": Roy4 MD.",
+      "description": "Roy4 MD.",
       "required": false,
       "value": "Mercedes"
 
