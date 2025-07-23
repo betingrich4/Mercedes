@@ -14,7 +14,7 @@
     },  
     
     "STICKER_NAME": {
-      "description": "🔥😊🤔😌🥰🤭🥳🙄😤🫡.",
+      "description": "marisel.",
       "required": false,
       "value": "𝖒𝖆𝖗𝖎𝖘𝖊𝖑"
     }, 
@@ -58,7 +58,7 @@
     }, 
     
     "OWNER_NAME": {
-      "description": "Roy4.",
+      "description": "Marisel.",
       "required": true,
       "value": "Marisel"
 }, 
@@ -71,8 +71,8 @@
     }, 
 
     "BOT_NAME": {
-      "description": "Roy4 MD.",
-      "required": false,
+      "description": "Mercedes",
+      "required": true,
       "value": "Mercedes"
 
       }, 
@@ -149,7 +149,7 @@
     "WELCOME": {
       "description": "make it true if want goodbye and welcome message in groups.",
       "required": false,
-      "value": "true"
+      "value": "false"
     },
 
     "READ_MESSAGE": {
